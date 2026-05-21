@@ -516,7 +516,7 @@
 {"key": "dr_01看球[体]","name": "🥔01看球[体][DR]","type": 3,"api": "./libs/drpy2.min.js","ext": "./js/体育/01看球[体].js"},
 {"key": "dr_926tv[体]","name": "🥔926tv[体][DR]","type": 3,"api": "./libs/drpy2.min.js","ext": "./js/体育/926tv[体].js"},
 
-{"key": "dr_采集之王[合]","name": "🥒采集聚合[采][DR]","type": 3,"api": "./libs/drpy2.min.js","ext": "./js/采集/采集之王[合].js?type=url&params=../json/采集静态.json$1"},
+{"key": "dr_采集之王[合]","name": "🥒采集聚合[采][DR]","type": 3,"api": "./libs/drpy2.min.js","ext": "./js/采集/采集之王[合].js?type=url&params=./json/采集静态.json$1"},
 {"key": "dr_金鹰资源[资]","name": "🥒金鹰资源[采][DR]","type": 3,"api": "./libs/drpy2.min.js","ext": "./js/采集/金鹰资源[资].js"},
 {"key": "dr_量子资源[资]","name": "🥒量子资源[采][DR]","type": 3,"api": "./libs/drpy2.min.js","ext": "./js/采集/量子资源[资].js"},
 {"key": "dr_非凡资源[资]","name": "🥒非凡资源[采][DR]","type": 3,"api": "./libs/drpy2.min.js","ext": "./js/采集/非凡资源[资].js"},
